@@ -2,6 +2,8 @@
 
 We are looking for experienced AWS Developers to join our growing team.
 
+About Company:A global IT services and consulting company headquartered in Brea, California (USA).
+Founded in 1969, the company has over 50+ years of experience in delivering technology solutions and managed services to enterprises.
 ---
 
 ## 📌 Job Details
